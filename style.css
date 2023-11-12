@@ -178,3 +178,7 @@ a {
 .filter-by-region {
   height: 70px;
 }
+
+.search-input {
+  margin-top: 8px;
+}
